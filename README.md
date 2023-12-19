@@ -18,9 +18,5 @@ Program takes in a data source (developer.zip) and creates an inverted index map
 
 ## Team Members
 
-- Waylon Zhu [@Wayloncode](https://www.github.com/Wayloncode)
-    - NetID: wnzhu
-    - Student ID: 62258482
 - Edgar Zhu [@edzhu21](https://www.github.com/edzhu21)
-    - NetID: edgarz2
-    - Student ID: 57406238
+- Waylon Zhu [@Wayloncode](https://www.github.com/Wayloncode)
