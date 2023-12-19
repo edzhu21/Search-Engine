@@ -1,4 +1,4 @@
-# IR23F Assignment 3
+# Search Engine Project
 
 ## Step-by-Step Guide
     1. Run indexer.py (this creates all the necessary files needed at query / runtime), This will prompt you to put in the file path of the data (developer/DEV)
